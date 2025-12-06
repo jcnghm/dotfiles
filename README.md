@@ -1,6 +1,8 @@
-# Dotfiles
+# dotfiles
 
 My personal configuration files for Omarchy Arch/Hyprland. Clean, minimal, and functional.
+
+<img width="1919" height="1079" alt="screenshot-2025-12-06_13-09-25" src="https://github.com/user-attachments/assets/cbedf73d-d23c-4835-9115-83c0623cdbdf" />
 
 ## Installation
 
