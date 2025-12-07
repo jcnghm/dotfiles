@@ -40,13 +40,13 @@ window#waybar {
 .modules-left {
     margin-left: 8px;
     background-color: @background;
-    border-radius: 10px;
+    border-radius: 20px;
     padding: 4px 10px;
 }
 
 .modules-center {
     background-color: @background;
-    border-radius: 10px;
+    border-radius: 20px;
     padding: 4px 10px;
     min-width: 150px;
 }
@@ -54,7 +54,7 @@ window#waybar {
 .modules-right {
     margin-right: 8px;
     background-color: @background;
-    border-radius: 10px;
+    border-radius: 20px;
     padding: 4px 10px;
 }
 
